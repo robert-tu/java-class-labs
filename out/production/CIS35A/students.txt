@@ -1,0 +1,17 @@
+Jeff 10 20 30 40
+2.4 10 20 george
+
+@eric 23
+
+alex 10 20   30
+					
+James 2@ 2! !2
+bob 40 60
+jane 10
+100 jeff
+Malcom
+tiffany 12 23 30 50 1
+judy 0 0 0 1
+@#@$
+123 467 7 8 9 2 0 12
+charlie 24 23
